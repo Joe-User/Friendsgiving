@@ -1,7 +1,7 @@
 # Reference Guide
 
 
-## Pasteurization Time for Poultry with 5% Fat Content (7-log10 lethality) [^1]
+## Pasteurization Time for Poultry with 5% Fat Content (7-log10 lethality) [^1] {#poultry_paseturization}
 |Temp °F| Temp °C|Time|
 |----|----|----|  
 |136 | 58 | 65.3 minutes|
