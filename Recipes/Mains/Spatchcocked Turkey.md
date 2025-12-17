@@ -65,4 +65,4 @@
 4. Once the dark or white meat approaches the target temperature remove the part and let the remaining part come to temperature. Remove the meat a little before the target temperature and allow to coast to the target. 
 5. Once the turkey is up to the correct temperature debone and plate.
 
-[^1]: [Reference Guide - Pasteurization Time for Poultry](</../Reference Guide.md/#poultry_paseturization>)
+[^1]: [Reference Guide - Pasteurization Time for Poultry](/Reference%20Guide.md/#poultry_paseturization)
